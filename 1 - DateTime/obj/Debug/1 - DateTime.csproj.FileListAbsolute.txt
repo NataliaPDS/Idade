@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\_1___DateTime.Form1.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\_1___DateTime.Properties.Resources.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.csproj.GenerateResource.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\bin\Debug\1 - DateTime.exe.config
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\bin\Debug\1 - DateTime.exe
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\bin\Debug\1 - DateTime.pdb
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.exe
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\1 - DateTime\1 - DateTime\obj\Debug\1 - DateTime.pdb
