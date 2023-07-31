@@ -26,6 +26,10 @@ namespace _1___DateTime
             //TimeSpan a = (dataNasc - dataAtual);
             int idade = dataAtual.Year - dataNasc.Year;// 2023 - 2006 //esta dando 0
             ///DateTime.Compare(dataAtual, dataNasc).ToString();//primeira é anterior a segunda, correto -1
+            ///lembrete: tentar usar este compare no if
+            /// 
+
+
 
             if (dataNasc.Month > dataAtual.Month || dataNasc.Day > dataAtual.Day) //verificando se passou o mes e o dia
             {
@@ -33,7 +37,7 @@ namespace _1___DateTime
             }
             else if (dataNasc.Month <= dataAtual.Month || dataNasc.Day <= dataAtual.Day) 
             {
-                idade++;//se ja passou +1 
+                idade++;//se ja passou +1 //duvidas
             }
             label1.Text = idade.ToString();//esta dando 1, então parece que o if esta correto
            // MessageBox.Show(idade.ToString());
